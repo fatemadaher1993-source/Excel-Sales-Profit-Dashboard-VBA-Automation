@@ -18,8 +18,7 @@ The solution is built across three dedicated sheets to ensure data integrity and
 
 ## ⚙️ Tools & Technical Skills Applied
 
-This project helped solidify practical data analysis skills, including:
-
+* **Primary Tool:** Microsoft Excel
 * **Data Preparation (Cleaning):** Structured and cleaned raw sales data into a ready-to-use table format.
 * **Data Structure:** Utilization of **PivotTables** for efficient data summarization and establishing necessary relationships between fields.
 * **User Interactivity:** Implementation of **Slicers and Timelines** for dynamic filtering by Year, Month, and Product Category.
@@ -27,13 +26,21 @@ This project helped solidify practical data analysis skills, including:
 
 ---
 
+## ⚠️ Important Note on Automation (VBA)
+
+This file (`Excel-Sales-Dashboard.xlsm`) contains **VBA (Visual Basic for Applications) code** to enable the **Refresh Button** functionality.
+
+**To ensure the dashboard is fully functional and interactive, you must enable Macros/Content when opening the file in Microsoft Excel.**
+
+---
+
 ## 🖼️ Dashboard Snapshots (لقطات الشاشة)
 
-للاطلاع على التقرير وهيكله بشكل مرئي:
+### 1. Sales & Profit Dashboard (الداشبورد النهائي)
+![Excel Sales and Profit Dashboard Final View]([screenshots/Screenshot 2025-10-31 212744.png](https://github.com/fatemadaher1993-source/Excel-Sales-Profit-Dashboard-VBA-Automation/blob/main/screenshots/Screenshot%202025-10-31%20212744.png))
 
-### 1. Sales & Profit Dashboard
-https://github.com/fatemadaher1993-source/Excel-Sales-Profit-Dashboard-VBA-Automation/blob/main/screenshots/Screenshot%202025-10-31%20212744.png
-### 2. Data Structure & Pivot Tables
+### 2. Data Structure & Pivot Tables (هيكل البيانات)
+![Excel Data Model and Pivot Table Structure]([screenshots/Screenshot 2025-10-31 212842.png](https://github.com/fatemadaher1993-source/Excel-Sales-Profit-Dashboard-VBA-Automation/blob/main/screenshots/Screenshot%202025-10-31%20212842.png))
 
 ## 📁 Files Included
 
