@@ -37,7 +37,7 @@ This file (`Excel-Sales-Dashboard.xlsm`) contains **VBA (Visual Basic for Applic
 ## 🖼️ Dashboard Snapshots (لقطات الشاشة)
 
 ### 1. Sales & Profit Dashboard (الداشبورد النهائي)
-![Excel Sales and Profit Dashboard Final View]([screenshots/Screenshot 2025-10-31 212744.png](https://github.com/fatemadaher1993-source/Excel-Sales-Profit-Dashboard-VBA-Automation/blob/main/screenshots/Screenshot%202025-10-31%20212744.png))
+![Excel Sales and Profit Dashboard Final View](https://github.com/fatemadaher1993-source/Excel-Sales-Profit-Dashboard-VBA-Automation/blob/main/screenshots/Screen%20Shot%202025-09-12%20at%2012.16.20.png
 
 ### 2. Data Structure & Pivot Tables (هيكل البيانات)
 ![Excel Data Model and Pivot Table Structure]([screenshots/Screenshot 2025-10-31 212842.png](https://github.com/fatemadaher1993-source/Excel-Sales-Profit-Dashboard-VBA-Automation/blob/main/screenshots/Screenshot%202025-10-31%20212842.png))
